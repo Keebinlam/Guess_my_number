@@ -1,3 +1,2 @@
-# Traffic_light
-# Snake-Game
+# Guess my number
 
